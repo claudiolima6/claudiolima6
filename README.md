@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Cláudio Lima
 
-<div>
-<a href="mailto:claudio.lima.santos@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="balnkl"></a>
-<a href="https://www.linkedin.com/claudio-lima-santos-b2641421/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="balnkl"></a>
-</div>
-
 - 🔭 I’m currently looking for a job as front-end developer.
 - 🌱 I’m currently learning javascript.
 
