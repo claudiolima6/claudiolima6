@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Cláudio Lima
+### Hi there, I'm Cláudio Lima
 
-- 🔭 I’m currently looking for a job as front-end developer.
-- 🌱 I’m currently learning javascript.
+- I’m currently looking for a job as front-end developer.
+- I’m currently learning javascript.
 
 <div align="center" dir="auto">
   <a href="https://github.com/claudiolima6">
