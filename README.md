@@ -1,7 +1,7 @@
 ### Hi there, I'm Cláudio Lima
 
 - I’m currently looking for a job as front-end developer jr.
-- I’m currently learning javascript.
+- I’m currently learning more about javascript.
 
 <div align="center" dir="auto">
   <a href="https://github.com/claudiolima6">
@@ -16,8 +16,8 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><p>
   
-   ![Snake animation](https://github.com/claudiolima6/claudiolima6/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/claudiolima6/claudiolima6/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
