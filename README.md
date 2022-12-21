@@ -1,7 +1,7 @@
 ### Hi there, I'm Cláudio Lima
 
 - I’m currently looking for a job as front-end developer jr.
-- I’m currently learning more about javascript.
+- I’m currently learning more about Javascript and Angular.
 
 <div align="center" dir="auto">
   <a href="https://github.com/claudiolima6">
