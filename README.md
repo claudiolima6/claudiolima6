@@ -1,6 +1,6 @@
 ### Hi there, I'm Cláudio Lima
 
-- I’m currently learning more about Javascript and Angular.
+- I’m currently learning more about Power BI.
 
 <div align="center" dir="auto">
   <a href="https://github.com/claudiolima6">
